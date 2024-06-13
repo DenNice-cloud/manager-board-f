@@ -29,6 +29,8 @@ Allows you to filter tasks by title and supports adding new tasks, updating exis
 When adding and updating a task, the title and description fields must be filled in.
 - **TodoItem.js:** Represents each individual task item, allowing users to edit its name and description in real time. It also handles drag and drop operations, using react-beautiful-dnd to rearrange tasks between columns.
 
+**Link to backend part** - https://github.com/DenNice-cloud/task-manager-board
+
 ## Setup Instructions
 To run this project locally, follow these steps:
 
