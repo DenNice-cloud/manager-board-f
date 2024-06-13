@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/manager-board-f/static/css/main.32ae7cdd.css",
+    "main.js": "/manager-board-f/static/js/main.0178be26.js",
+    "index.html": "/manager-board-f/index.html",
+    "main.32ae7cdd.css.map": "/manager-board-f/static/css/main.32ae7cdd.css.map",
+    "main.0178be26.js.map": "/manager-board-f/static/js/main.0178be26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32ae7cdd.css",
+    "static/js/main.0178be26.js"
+  ]
+}
