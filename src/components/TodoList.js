@@ -141,7 +141,7 @@ const TodoList = () => {
 
     if (query) {
       filteredTodos = filteredTodos.filter(
-        (todo) => todo.title.toLowerCase() === query.toLowerCase()
+        (todo) => todo.title.toLowerCase().includes(query.toLowerCase())
       );
       setQuery("");
     }
